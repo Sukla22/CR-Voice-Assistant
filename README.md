@@ -104,11 +104,15 @@ Reasons behind building this assistant:
 - Web search with APIs  
 
 ### 5.5 Logic & Workflow
-```python
+Example:
+```
+python
 if "play music" in command:
-    play_on_youtube(query)
+    play_on_youtube(query)  
 elif "send email" in command:
-    send_email()```
+    send_email()  
+Multithreading: Implement background processes for uninterrupted listening and task execution.
+```
 
 ### 5.6 🧪 Testing & Debugging
 - Test modules individually  
