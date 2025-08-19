@@ -109,6 +109,7 @@ if "play music" in command:
     play_on_youtube(query)
 elif "send email" in command:
     send_email()
+
 ### 5.6 🧪 Testing & Debugging
 - Test modules individually  
 - Validate APIs and error handling  
@@ -163,3 +164,4 @@ This project demonstrates the **design and implementation** of an AI-powered voi
 1. Singh, N. S., et al. (2024). *Artificial intelligence voice assistant and home automation*. IJ Science & Research Archive, 12(1), 2006–2017. https://doi.org/10.30574/ijsra.2024.12.1.0954  
 2. Kaymen99. *AI Voice Assistant: Talk to an AI Agent...* GitHub, 2024. [Link](https://github.com/kaymen99/AI-Voice-assistant)  
 3. ProjectsWithDigambar. *Jarvis Project*. GitHub, 2024. [Link](https://github.com/projectswithdigambar/jarvis)  
+
