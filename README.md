@@ -136,6 +136,7 @@ Multithreading: Implement background processes for uninterrupted listening and t
 **Fig. 7.1: GUI Interface of CR Voice Assistant**  
 
 ![GUI Interface](www/assets/img/Screenshot 2025-05-26 024245.png)
+<img src="www/assets/img/Screenshot 2025-05-26 024245.png" alt="GUI Screenshot" width="600"/>
 
 ---
 
