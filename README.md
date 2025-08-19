@@ -1,13 +1,13 @@
 # CR-Voice-Assistant
 
-Abstract: 
+##Abstract: 
 This project introduces an advanced-level AI voice assistant for high-quality speech interaction between users and machines. Through the combination of speech-to-text (STT) and text-to-speech (TTS) technologies, the assistant is capable of taking commands via voice and can also reply through voice; thus, the conversation can be natural and hands-free. It's an incredibly versatile assistant that opens websites and system applications, opens chat, has hotword detection, makes WhatsApp calls/video calls, and plays something on YouTube. By combining Python and APIs, this voice assistant showcases the ability to govern logic flow and decision-making based on a set of rules to create the illusion of intelligence without ever using machine learning. The project focuses on accessibility, productivity, and flexibility to create a base for future progress in AI voice technologies.
-Introduction:
+##Introduction:
 In the last several years, voice has changed the way we interact with technology, as smart assistants such as Alexa, Siri, and Google Assistant are now ubiquitous in people’s daily lives. Motivated by this ongoing development, we present in this work a custom AI-based voice assistant that seeks to perform reliable Speech-to-Text (STT) and Text-to-Speech (TTS) to support natural and conversational human-computer interactions. It should be able to not just understand and reply with voice commands but also be able to tie into other tools and services for real use, from managing your schedule, sending emails, running internet searches, and more.
 Because it is constructed using Python and a wide range of other open-source libraries and APIs, the assistant provides a versatile, cost-effective, and easy-to-use platform that can easily be customized to individual users.  It also explores the intersection of artificial intelligence, natural language processing, and automation, aiming to bridge the gap between theoretical knowledge and real-world applications. This project serves as a hands-on learning experience while demonstrating the feasibility of developing intelligent, voice-enabled systems with scalable and customizable features.
-Objective: 
-The major objectives of this project will revolve around the following:
-Development of the Interaction Voice-Based System: 
+##Objective: 
+###The major objectives of this project will revolve around the following:
+####Development of the Interaction Voice-Based System: 
 This is mainly developing an AI assistant with which users can interact mainly by voice. It implies that the system should be able to understand spoken commands and respond verbally.
 Integrate Speech-to-Text (STT) and Text-to-Speech (TTS): 
 This is one of the core technical objectives. The assistant will need to take the user's spoken language and convert it to text for processing and then convert its text-based responses into spoken language for communication.
