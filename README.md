@@ -108,7 +108,7 @@ Reasons behind building this assistant:
 if "play music" in command:
     play_on_youtube(query)
 elif "send email" in command:
-    send_email()
+    send_email()```
 
 ### 5.6 🧪 Testing & Debugging
 - Test modules individually  
