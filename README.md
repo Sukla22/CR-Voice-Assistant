@@ -128,14 +128,13 @@ Multithreading: Implement background processes for uninterrupted listening and t
 ## 🔄 Workflow
 **Fig. 6.1: Workflow Diagram**  
 
-*(Insert workflow image here when available)*  
 
 ---
 
 ## 🖥️ GUI Interface
 **Fig. 7.1: GUI Interface of CR Voice Assistant**  
 
-![GUI Interface](www/assets/img/Screenshot 2025-05-26 024245.png)
+
 <img src="www/assets/img/Screenshot 2025-05-26 024245.png" alt="GUI Screenshot" width="600"/>
 
 ---
