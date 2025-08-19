@@ -128,7 +128,7 @@ Multithreading: Implement background processes for uninterrupted listening and t
 ## 🔄 Workflow
 **Fig. 6.1: Workflow Diagram**  
 
-
+<img src="www/assets/img/Screenshot 2025-08-19 185639.png" alt="GUI Screenshot" width="600"/> 
 ---
 
 ## 🖥️ GUI Interface
